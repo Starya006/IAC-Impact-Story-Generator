@@ -1,0 +1,17 @@
+# IAC Impact Story Generator - requirements
+#
+# The prototype uses only the Python standard library.
+# No packages need to be installed with pip.
+#
+# Python version : 3.8 or later
+# Modules used   : json, urllib.request, urllib.error, tkinter (tkinter.ttk,
+#                  tkinter.filedialog, tkinter.messagebox)
+#
+# Tkinter ships with the Windows and macOS installers from python.org.
+# On Debian/Ubuntu Linux, install it with:
+#     sudo apt install python3-tk
+#
+# Optional (for AI mode):
+#   - An internet connection
+#   - A Google Gemini API key (model used: gemini-2.5-flash)
+# Without a key, the app uses the built-in basic fallback generator offline.

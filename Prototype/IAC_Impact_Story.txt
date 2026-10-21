@@ -1,0 +1,24 @@
+MY IMPACT STORY
+
+Introduction
+I participated in Generative AI Internship.
+
+Internship Duration
+4 weeks
+
+Activities and Learning
+Learned the basics of Generative AI and explored how AI tools can be used to create content. Developed a project to generate participant impact stories from the information provided by users.
+
+Skills and Knowledge Gained
+Learned prompt writing, basic Python programming, AI-assisted content generation, problem-solving, and project development.
+
+Challenges
+Initially found it difficult to understand how AI APIs work and how to connect the user interface with the story generation process. Improved understanding through testing and debugging.
+
+Achievements
+Created a working prototype that accepts participant information, generates a structured impact story, allows the user to review and edit it, and saves the story as a text file.
+
+Personal Reflection
+This experience helped me understand how technology can simplify writing and documentation. I learned the importance of checking AI-generated content for accuracy and making sure the final story reflects the participant's real experiences.
+
+Review note: Please check this draft for accuracy and obtain participant approval before sharing.
